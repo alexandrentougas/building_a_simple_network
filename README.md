@@ -89,3 +89,5 @@ I've **enabled the DNS service** on the DNS server and I've **added an entry** w
 Then I've configured all the end devices with **192.168.1.254** as the DNS server address.
 
 **That's it ! *www.cisco.com* can now be reached through the browser of the PCs.**
+
+[Link to the PKT file](https://github.com/alexandrentougas/building_a_simple_network/blob/main/simpleNetworkFinal.pkt)
